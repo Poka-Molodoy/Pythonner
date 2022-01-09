@@ -1,0 +1,3 @@
+print("Welcome to the tip calculator.")
+check = input("How much do you have to pay. ")
+people = input("How much do you have to pay. ")
